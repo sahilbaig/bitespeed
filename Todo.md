@@ -2,5 +2,10 @@
 2. Intial Thoughts:
    1. Need a DB
    2. Backend in node
+
       1. Integrate Typescirpt with it
    3. Task has something to do with Joining tables
+
+* [ ] Setup intial nodejs
+* [ ] Setup DB
+* [ ] Look into ORM?
